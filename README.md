@@ -1,7 +1,11 @@
 # JH-Fractals
 Small program to interactively generate pretty fractal trees in a pygame window
 
-How To Use:
+### How To Use:
 Mouse poisition in window are used to determine fractal parameters
 
-Requirements: Python, pygame (pip install pygame)
+### Requirements:
+Python, pygame (pip install pygame)
+
+### Use
+Feel Free to use & modify, credit would be appreciated :)
